@@ -1,4 +1,4 @@
-# Run this file first for setting up the service
+﻿# Run this file first for setting up the service
 
 $ErrorActionPreference = "Stop"
 
